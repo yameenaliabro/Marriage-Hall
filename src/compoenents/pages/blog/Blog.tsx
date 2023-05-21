@@ -1,5 +1,6 @@
 import { Button, Col, Row,Image} from "antd";
 import "./blog.css"
+import image1 from "./Blog2/img/1.png"
 import Blog2 from "./Blog2/Blog2";
 function Blog(){
 return(
@@ -11,7 +12,7 @@ return(
     <div className="main-blog">
     <Row>
    <Row className="row-main">
-  <Image src="http://127.0.0.1:5500/html/images/img-4.png" alt="blog-image"/>
+  <Image src={image1} alt="blog-image"/>
     <Col className="blog-main-heading">
     <h2>Liya Mainial Catt</h2>
     <Col>

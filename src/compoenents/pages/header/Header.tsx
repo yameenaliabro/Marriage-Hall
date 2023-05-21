@@ -1,5 +1,6 @@
 import { Row, Col, Menu, Image } from "antd"
 import Container from "../../common/container/Container"
+import logo from "./img/logo.png"
 import "./header.css"
 import { useNavigate } from "react-router"
 function Header() {
@@ -29,7 +30,7 @@ function Header() {
                                 color:"#fff",
                                 fontSize:16,
                             }}>
-                     <h1>Denom</h1>
+                                <Image src={logo} preview={false}/>
                         </Col>
                         <Col xs={12}
                             lg={16}

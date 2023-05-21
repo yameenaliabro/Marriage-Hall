@@ -1,5 +1,7 @@
 import { Col,Row,Image} from "antd"
 import "./news.css"
+import image1 from "./img/1.png"
+import image2 from "./img/2.png"
 function News(){
 return(
     <div className="container-news">
@@ -13,10 +15,10 @@ return(
         when looking at its layout. The point of using Lorem Ipsum is thaIt is a long established fact that <br/>
         a reader will be distracted by the readable content of a page when looking at its layout. The<br/> 
         point of using Lorem Ipsum is tha</p>
-    <Image src="http://127.0.0.1:5500/html/images/quick-icon.png" preview={false}/>
+    <Image src={image2} preview={false}/>
     </Col>
     <Col className="news-image">
-    <Image src="http://127.0.0.1:5500/html/images/news-img.png" preview={false}/>
+    <Image src={image1} preview={false}/>
     </Col>
     </Row>
     </div>
