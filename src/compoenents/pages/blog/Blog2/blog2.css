@@ -1,0 +1,37 @@
+.main-blog{
+    margin-top: 50px;
+    background-color: #fff;
+    width: 80%;
+    margin-left: 200px;
+}
+.main-blog-heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.row-main{
+    padding: 30px;
+}
+.blog-main-heading{
+    margin-top: 120px;
+    margin-right:100px;
+    line-height: 20px;
+}
+.blog-main-heading h2{
+    font-weight: bolder;
+}
+.blog-main-heading p{
+    font-size: 17px;
+    font-family: 'Avanta', 'Garde';
+}
+.like{
+    font-size: 20px;
+    color: black;
+    font-weight: bold !important;
+}
+.comment{
+    font-size: 20px;
+    color: #e6615a;
+    font-weight: bold !important;
+}

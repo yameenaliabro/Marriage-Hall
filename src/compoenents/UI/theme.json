@@ -1,0 +1,20 @@
+{
+    "token": {
+      "colorPrimary": "  #fb8a05",
+      "colorSuccess": "#fdd400",
+      "fontSizeHeading2": 40,
+      "fontSizeHeading1": 50,
+      "borderRadius": 5,
+      "wireframe": false,
+      "colorBgLayout": "red",
+      "colorInfo": "blue",
+      "fontFamily": "'Roboto', sans-serif"
+    },
+    "components": {
+      "Table": {
+        "colorLink": "#fff",
+        "colorLinkActive": "#66666"
+      }
+    }
+  }
+  

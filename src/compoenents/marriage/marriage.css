@@ -1,0 +1,47 @@
+.main-container-marriage{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.main-some{
+    padding-bottom: 90px;
+    background: linear-gradient(to right, #693dab, #cd29a2);
+    height:120%;
+}
+.main-image{
+    margin-left: 100px;
+}
+.main-image img{
+    width: 70% !important;
+}
+.heading{
+    margin-bottom: 20px;
+}
+.heading h1{
+    font-weight: bolder;
+}
+.main-image2{
+   position: absolute;
+   left: 53%;
+   display: flex;
+   justify-content: space-between;
+   flex-direction: column;
+   line-height: 20px;
+   margin-top: 90px;
+   color: #fff;
+}
+.main-image2 img{
+    background-color: #fff;
+    padding: 20px;
+    width: 90px !important;
+    height:90px !important;
+    border-radius: 10px !important;
+    margin-bottom: 60px;
+}
+.main-image2 p{
+    font-size: 17px;
+    line-height: 25px;
+}
+.column{
+    margin-left: 20px;
+    letter-spacing: 0.3px;
+}
