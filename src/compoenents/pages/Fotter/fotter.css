@@ -1,52 +1,60 @@
-.main-fotter{
+.main-fotter {
     background-color: #2d2c2d;
     width: 100%;
     height: 450px;
 }
-.fotter-image{
+
+.fotter-image {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     padding-top: 50px;
 }
-.fotter-image img{
+
+.fotter-image img {
     padding: 20px !important;
 }
-.news-row{
+
+.news-row {
     display: flex;
     justify-content: space-around;
     color: #fff;
     margin-top: 50px;
     text-align: center;
-    
+
 }
-.news-row p{
+
+.news-row p {
     margin-top: 6px;
     margin-left: 10px;
     font-size: 17px;
 }
-.fotter-input{
+
+.fotter-input {
     display: flex;
     justify-content: center;
     align-items: center;
     margin-top: 50px;
 }
-.fotter-input input{
-    width:600px !important;  
+
+.fotter-input input {
+    width: 600px !important;
     height: 50px !important;
     font-size: 20px;
 }
-hr{
+
+hr {
     width: 1200px;
 }
-.fotter-text{
+
+.fotter-text {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin-top: 40px;
-    color: #fff;  
+    color: #fff;
     font-size: 20px;
 
 }

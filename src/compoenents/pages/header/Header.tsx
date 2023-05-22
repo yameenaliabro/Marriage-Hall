@@ -45,7 +45,9 @@ function Header() {
                                     backgroundColor: 'transparent',
                                     justifyContent: "center",
                                     color:"#fff",
-                                    fontSize:16
+                                    fontSize:16,
+                                    paddingBottom:10,
+                                    marginTop:10
                                 }}
                             />
                         </Col>
