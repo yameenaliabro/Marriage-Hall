@@ -24,16 +24,17 @@ function Header() {
                 <Container>
                     <Row justify="center" align="middle">
                         <Col xs={12}
-                            lg={6}
+                            lg={6}  
                             style={{
                                 marginTop: 10,
                                 color:"#fff",
                                 fontSize:16,
                             }}>
                                 <Image src={logo} preview={false}/>
+                    
                         </Col>
                         <Col xs={12}
-                            lg={16}
+                            lg={16} 
                             style={{
                                 textAlign: "center",
                             }}>

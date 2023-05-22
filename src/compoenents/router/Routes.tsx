@@ -8,7 +8,7 @@ import Fotter from "../pages/Fotter/Fotter"
 import Blog from "../pages/blog/Blog"
 import News from "../pages/News/News"
 import ContactUs from "../pages/ContanctUs/ContactUs"
-function Router(){
+function Router(){  
     let routes: RouteObject[] =[{
         path:"/",
         element:<Layout children={<Outlet/>}/>,
